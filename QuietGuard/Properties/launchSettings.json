@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QuietGuard (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "QuietGuard (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
